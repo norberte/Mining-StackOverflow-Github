@@ -16,3 +16,5 @@
 The Stack Overflow data has been extracted from the official [Stack Exchange data dump](https://archive.org/details/stackexchange) released 2018-12-02.
 
 The GitHub references have been retrieved from the [Google BigQuery GitHub data set](https://cloud.google.com/bigquery/public-data/github) on 2018-12-09.
+
+**DISCLAIMER**: The above sql schema scripts are not my own code. I got this code from the following repository: https://github.com/sotorrent/db-scripts/tree/master/sotorrent
