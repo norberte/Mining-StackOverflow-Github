@@ -1,0 +1,57 @@
+projects: 116 217 069
+project_linked: 399 262
+
+commits: 1 276 402 890
+commits_linked: 63 846 528
+
+repo_labels: 353 235 838
+repo_labels_linked: 1 715 494
+
+watchers_original: 138 749 808
+watchers_linked: 17 804 316
+
+commit_comments: 5 489 034
+commit_comments_linked: 699 044
+
+commit_parents
+: 1 275 331 898
+commit_parents
+_linked: 479 483 406
+
+project_commits
+: 6 096 603 791
+project_commits_linked
+: 63 846 528
+
+pull_requests
+: 47 844 942
+pull_requests
+_linked: 3 078 255
+
+pull_request_comments: 32 182 723
+pull_request_comments_linked: 4 371 393
+
+pull_request_history
+: 124 096 184
+pull_request_history_linked: 8 208 929
+
+pull_request_commits: 243 579 978
+pull_request_commits_linked: 19 747 343
+
+issues
+: 91 057 372
+issues
+_linked: 3 119 766
+
+issue_labels: 25 710 804
+issue_labels_linked: 6 718
+
+issue_comments: 139 761 328
+issue_comments
+_linked: 5 962 468
+
+issue_events: 127 166 727
+issue_events_linked: 101 602
+
+project_languages: 128 592 248
+project_languages_linked: 2 260 577
