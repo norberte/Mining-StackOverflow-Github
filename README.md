@@ -1,4 +1,4 @@
-## Mining-StackOverflow-Github
+## Linking Stack Overflow and Github Public Data for Mining Purposes
 This project is part of my Master's thesis project on developer expertise learning by mining Stack Overflow (SOTorrent) and Github (GHTorrent) data.
 
 Requirements:
