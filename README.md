@@ -1,4 +1,4 @@
-## Linking Stack Overflow and Github Public Data for Mining Purposes
+## Cross-Platform Developer Expertise Learning
 This project is part of my Master's thesis project on developer expertise learning by mining Stack Overflow (SOTorrent) and Github (GHTorrent) data.
 
 Requirements:
@@ -20,4 +20,5 @@ Run the following SQL script on the already linked database: Mining-StackOverflo
 Run the following SQL script on the already fully linked, and "stitched" database: Mining-StackOverflow-Github/DB creation/SO-GH_table_pruning.sql
 
 
-Created by Norbert Eke, 2019
+Created by Norbert Eke
+2020
